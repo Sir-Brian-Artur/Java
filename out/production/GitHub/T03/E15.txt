@@ -1,0 +1,3 @@
+En este programa se imprime el número "0" 168 veces. Podríamos pensar
+que está imprimiendo las horas que tiene una semana, pero la variable
+"hora" no se ve alterada en ningún momento.

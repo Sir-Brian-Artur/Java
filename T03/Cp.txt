@@ -1,0 +1,12 @@
+a. Muestra por consola los números del 1 al 10, uno por línea.
+b. Muestra por consola los números impares que hay de 1 a 10.
+c. Muestra los números que hay entre el 1 y el -infinito, generando así un bucle infinito, o
+   comúnmente mal llamado "programa embuclado".
+d. Hace lo mismo que el "a" pero descendentemente.
+e. Muestra por consola los números del 10 al 20, uno por línea.
+f. Muestra por consola los números del 11 al 15, uno por línea.
+g. Muestra por consola los números del 20 al 10, de forma descendente.
+h. Genera n bucle infinito porque el contador "i" no se ve actualizado. Por tanto, va a imprimir
+   10 infinitas veces.
+i. Hace lo mismo que el ejercicio "e".
+j. Genera un bucle infinito con números que ascienden de 3 en 3.

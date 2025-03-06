@@ -1,0 +1,4 @@
+Este programa lo que hace es multiplicar dos números enteros, que haya 
+introducido el usuario por consola. El programa no produce ningún error: siempre
+y cuando el "Scanner" haya sido importado previamente. Lo cual no está indicado
+en el ejemplo.

@@ -1,0 +1,8 @@
+a. Estamos comprobando si los tres primeros caracteres del String, coinciden
+   con los dos últimos más uno que no existe. Esto va a dar siempre error.
+
+b. Estamos comprobando si hay 2 caracteres iguales juntos. El bucle va hasta
+   el "length()-2" porque el último es el "-1", así que no tiene nada más 
+   que comprobar.
+
+c. Estamos guardando las iniciales de una persona, separadas por puntos.

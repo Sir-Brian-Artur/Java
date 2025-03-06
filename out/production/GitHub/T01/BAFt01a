@@ -1,0 +1,8 @@
+a. El operador "*" precede al operado "+". Por lo que "a" vale 10.
+b. En este caso el valor de la operación sigue siendo 10.
+c. "%" es el operador "módulo", su función es calcular el resto de una división.
+   Por lo que para esta operación daría como resto 0; entonces "c" vale 5.
+d. Pese a tipar como "float", el resultado va a verse truncado. Esto es debido
+   a que estamos operando con ambos números enteros. Entonces "d" vale 2.
+e. Ahora, que ya hemos indicado que 5 funcione como un "float", el resultado de
+   "e" va a ser 2.5 .

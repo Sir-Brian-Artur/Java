@@ -1,0 +1,4 @@
+Este ejercicio divide el valor de "a" entre el valor de "b". Las divisiones
+pueden ocasionar como resultado un número decimal; por lo que debieramos cambiar
+el tipode valor de "c" a "float" o "doble". 
+Si introdujésemos un "0" en el valor de "b", el resultado sería "Infinito".

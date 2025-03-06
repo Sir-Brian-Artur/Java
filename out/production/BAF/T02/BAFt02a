@@ -1,0 +1,44 @@
+a. Falso
+   i es menor que 10
+
+b. Verdadero 
+   Ambas condiciones se cumplen
+
+c. Falso
+   La primera condición sí que se cumple, pero la segunda no
+
+d. Verdadero 
+   Al tener un "OR", sólo nos hace falta que se cumpla una condición;
+   que en este caso es la segunda.
+
+e. Verdadero
+   Ya que se está cumpliendo la dupla del "AND", pese a que lo que
+   está despu;es del "OR"no se cumpla.
+
+f. Falso 
+   La condición se cumple, pero sobre esta se le aplica el operador de 
+   negación, el cual revierte el valor a lo contrario.
+
+g. Verdadero
+   La primera condición, que es falsa, se ve cambiada de valor, por el operador
+   de negación; y la segunda sí que se cumple.
+
+h. Verdadero
+   Al igual que sucede con el ejercicio "e", la dupla del "AND" se cumple, 
+   aunque no lo haga la primera condición del "OR".
+
+i. Falso
+   Porque 0 sí es menor que 3, pero -1 no es mayor que 2
+
+j. Verdadero
+   Aunque la segunda dupla no se cumpla, la primera parte del "OR" sí que lo
+   hace.
+
+k. Falso
+   En este caso la primera parte del "AND" se cumple, pero no la segunda
+
+l. Verdadero
+   2020 es múltiplo de 4
+
+m. Verdadero
+   2000 es múltiplo de 400, pese a no cumplirse la dupla del "AND".
